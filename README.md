@@ -33,11 +33,8 @@ The second column has two Text widgets:
 The first Text widget displays the cashback amount formatted with the formatter object, with a font size of 16.
 The second Text widget displays a calculated value, which is the cashback amount multiplied by 1.5% (i.e., cashBackAmount * (1.5 / 100)). This value is also formatted with the formatter object, with a smaller font size.
 
+# Created a Cashout history to track withdrawn cashsback and help in calculating the Current Balance with is the value remaining from Total Cashback Earned after any Cashout is made
 
-
-#**Created a Cashout history to track withdrawn cashsback and help in calculating the Current Balance with is the value remaining from Total Cashback Earned after any Cashout is made**
-
-
-#**Created 2 distinct buttons to handle Direct Cashout and convertion of cashout to promo codes which the method to handle this 2 senerios can be added into the code seamlessly**
+# Created 2 distinct buttons to handle Direct Cashout and convertion of cashout to promo codes which the method to handle this 2 senerios can be added into the code seamlessly
 
 # rewards_summary_page
